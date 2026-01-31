@@ -378,7 +378,6 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   let name = document.getElementById("name").value.trim();
   let email = document.getElementById("email").value.trim();
   let message = document.getElementById("message").value.trim();
-
   if (name === "" || email === "" || message === "") {
     alert("⚠️ Please fill all fields!");
   } else {
@@ -387,8 +386,5 @@ document.getElementById("contactForm").addEventListener("submit", function(e) {
   }
 });
 
-
-
-https://github.com/user-attachments/assets/d018c782-8146-4d06-b27f-b252bd5607a5
-
+https://github.com/user-attachments/assets/d5bf616c-6e3b-4885-91a4-2b92e97228bd
 
