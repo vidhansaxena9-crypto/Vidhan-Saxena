@@ -1,4 +1,4 @@
-[style.css](https://github.com/user-attachments/files/24978680/style.css)# Vidhan-Saxena
+# Vidhan-Saxena
 Restaurant-Website
 [index.html](https://github.com/user-attachments/files/24978678/index.html)
 <!DOCTYPE html>
@@ -143,7 +143,9 @@ Restaurant-Website
 </body>
 </html>
 
-[Uploading* {
+[style.css](https://github.com/user-attachments/files/24978680/style.css)
+
+{
   margin: 0;
   padding: 0;
   box-sizing: border-box;
@@ -346,7 +348,6 @@ footer {
     flex-direction: column;
   }
 }
- style.css…]()
 
 [script.js](https://github.com/user-attachments/files/24978692/script.js)
 // HERO IMAGE SLIDER
