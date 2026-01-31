@@ -1,4 +1,4 @@
-// HERO SLIDER
+// HERO IMAGE SLIDER
 let slides = document.querySelectorAll(".slide");
 let index = 0;
 
@@ -9,15 +9,15 @@ function showSlide() {
 }
 setInterval(showSlide, 3000);
 
-// CTA BUTTON
-function ctaClick() {
-  alert("🚀 Let's build something amazing together!");
-  document.querySelector("#services").scrollIntoView({ behavior: "smooth" });
+// ORDER BUTTON
+function orderNow() {
+  alert("🎉 Redirecting to menu!");
+  document.querySelector("#menu").scrollIntoView({ behavior: "smooth" });
 }
 
-// LEARN MORE BUTTON
-function learnMore(service) {
-  alert("More details about " + service + " coming soon!");
+// ADD TO CART
+function addToCart(item) {
+  alert(item + " added to cart 🛒");
 }
 
 // FORM VALIDATION
